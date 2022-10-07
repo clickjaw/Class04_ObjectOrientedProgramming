@@ -1,0 +1,15 @@
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/bin/Debug/net6.0/Class4_OOP
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/bin/Debug/net6.0/Class4_OOP.deps.json
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/bin/Debug/net6.0/Class4_OOP.runtimeconfig.json
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/bin/Debug/net6.0/Class4_OOP.dll
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/bin/Debug/net6.0/Class4_OOP.pdb
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/Class4_OOP.csproj.AssemblyReference.cache
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/Class4_OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/Class4_OOP.AssemblyInfoInputs.cache
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/Class4_OOP.AssemblyInfo.cs
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/Class4_OOP.csproj.CoreCompileInputs.cache
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/Class4_OOP.dll
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/refint/Class4_OOP.dll
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/Class4_OOP.pdb
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/Class4_OOP.genruntimeconfig.cache
+/Users/tylermorgan/code401/ClassCodeAlong/Class04_ObjectOrientedProgramming/Class4_OOP/obj/Debug/net6.0/ref/Class4_OOP.dll
